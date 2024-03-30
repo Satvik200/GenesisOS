@@ -1,0 +1,7 @@
+[package]
+name = "GenesisOS"
+version = "0.1.0"
+authors = ["Satvik Sharma"]
+
+[dependencies]
+bootloader = "0.9.8"
